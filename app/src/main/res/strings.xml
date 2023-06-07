@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udaas Shayari</string>
+
+    <string name="quote">Quote</string>
+    <string name="backup">Backup</string>
+    <string name="delete">Delete</string>
+    <string name="total_quotes">Total Quotes :</string>
+
+</resources>
